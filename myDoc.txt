@@ -1,0 +1,208 @@
+Summary of different theories about forgetting in psychology Saul McLeod
+
+memory loss vs. retrieval failure
+The functions of contexts in associative learning
+
+Gonzalo P. Urcelay and Ralph R. Miller
+
+Context can both act as a cue and modulator in conditioning (not mutually exclusive)
+The extent of the cueing and modulatory roles of context are strongly influenced by trial spacing, amount of training, and contiguity
+Prefrontal–hippocampal interactions in episodic memory
+
+# You can access the value at any point with:
+Howard Eichenbaum
+
+Similar two brain regions communication in mammals (hippocampus <-> PFC) as we have in Drosophila (LH <-> MB)
+(Review) Failures of memory and the fate of forgotten memories
+
+Ralph R. Miller
+
+In contrast to the assumption held by circuit researchers (behavior is an accurate reflection of the content of memory), it is likely that no memory is ever forgotten; memories only become inactive but not irreversible loss
+Forgetting is mostly due to interference of some non-target memories
+For spontaneous forgetting, things that happened in the time course are the source of interference
+Fan-Shaped Body Neurons in the Drosophila Brain Regulate Both Innate and Conditioned Nociceptive Avoidance
+
+Wantong Hu, ..., Yi Zhong
+
+FB neurons respond to electric shocks differently in each layer
+Fan-shaped body neurons that are labeled by R49H02, R89E07, and C205 are required for aversive memory retrieval
+Communication from Learned to Innate Olfactory Processing Centers Is Required for Memory Retrieval in Drosophila
+
+Michael-John Dolan, ..., Gregory Jefferis
+
+Cholinergic PD2a1/b1 receive input from cholinergic (excitatory) MBON-a2sc
+Spaced aversive conditioning depresses activities (decreased CS+ responses) in MBON-a2sc and PD2a1/b1; also PD2a1/b1 are required for memory retrieval
+attractive coding PNs send large input to PD2a1/b1, and PD2a1/b1 integrate inputs from PNs and MBON-a2sc
+In terms of connectivity, the biggest difference between PD2a1 and PD2b1 is that PD2a1 does not project to the MB calyx while the PD2b1 does
+A connectome of the Drosophila central complex reveals network motifs suitable for flexible navigation and context-dependent action selection
+
+Brad Hulse, ..., Vivek Jayaraman
+
+A feedback loop between fan-shaped body and MB: FB8F_a -> PPL1a'2a2 -> MBON23 -> FB8F_a
+Dopaminergic neurons write and update memories with cell-type-specific rules
+
+Yoshinori Aso and Gerald M Rubin
+
+a single DAN can bi-directionally alter the strength of KC-MBON synapses depending on the presence and relative timing of odor-driven KC activity; a full testing of this model awaits additional physiological measurements
+Figure 5 is a summary about learning rules of each DAN
+Uncovering long-term existence of a silent short-term memory trace
+
+Maha E. Wally, ..., Kaoru Inokuchi
+
+STM forms a silent engram which can be artificially recalled 1 day later and that this engram is stored within the hippocampal CA3-CA1 circuit
+Silent STM engram remains available for activation and subsequent consolidation if the same experience is repeated within 3 days
+While new protein synthesis is not involved in the same-day recall of STM, it is required for the long-term storage of its silent trace
+the NMDAR signaling pathway, and potentially synaptic plasticity, are involved in the facilitated consolidation of the STM by storing and activating the silent STM trace, consecutively
+A similar mechanism of reactivation underlies the storage and consolidation of the silent STM trace before and after its activation, respectively, which could reflect the necessity of post-learning sleep in preserving the STM trace, as with the LTM trace
+A causal link between post-learning offline activity and the long-term storage of a silent STM trace
+Social facilitation of long-lasting memory is mediated by CO2 in Drosophila
+
+Aurelie Muria, ..., Guillaume Isabel
+
+Being in group improves aversive memory performance in flies
+This increase is mainly triggered by CO2 released by group members (an increase of internal stress level?)
+The social facilitation of memory recruits specific brain structures
+CO2 has an unexpected role in cognition in invertebrates
+Functional and anatomical specificity in a higher olfactory centre
+
+Shahar Frechter, ..., and Gregory Jefferis
+
+Lateral horn neurons are genetically and anatomically defined cell types with stereotyped odor responses
+LH receives both excitatory and inhibitory inputs from PNs while MB calyx receives only excitatory PN input
+LH contains roughly 580 local neurons, whereas MB contains just one local inhibitory neuron (APL)
+Neurogenetic dissection of the Drosophila lateral horn reveals major outputs, diverse behavioral functions, and interactions with the mushroom body
+
+Michael-John Dolan, ..., and Remy Tabano
+
+nomenclature (3-hierarchical system): primary neurite tract, anatomy group, and cell type
+rarely complete polarisation in LHONs, suggesting bidirectional connections between LHLNs and LHONs
+no clear internal structure in LH: LHONs also receive abundant direct input from the AL
+many LHONs are presynaptic to one or more DANs
+LHON-to-MBON overlap is sparse, especially axoaxonic connections onto MBONs
+although artificial activation of certain LHONs drives valence behavior, no evidence for long-term effect (> 10 mins) has been shown
+The biology of forgetting - a perspective
+
+Ronald Davis and Yi Zhong
+
+Two studies in rats showing that biochemical memory traces can persist beyond their behavioral retrieval
+One is (Li and Richardson 2013), in the paper, the authors blocked NMDA receptors before conditioning, the trained rats did not show any conditioned response after two weeks. However, the rats can reacquire those memories after a second round of retraining. Interestingly, the reacquisition became independent of NMDA receptor activities.
+The other is (Kim et al., 2012). In the paper, the authors measured some kinase levels in the amygdala of 16-day-old (P16) and 23-day old (P23) rats after conditioning. Although the behavioral memory of this conditioning decayed in the P16 rats two days later relative to the P23-trained rats, the elevation in the kinase level did not fall.
+Olfactory processing in the lateral horn of Drosophila
+
+Sudeshna Das Chakraborty and Silke Sachse
+
+two odor coding strategies: dedicated pathways ("labeled line" pathways) and combinational coding
+PN-LHN circuitry: two extreme tuning co-exist
+some LHNs receive input only from a single glomerulus for the pheromone circuit
+LHNs are broadly tuned and individual LH neurons receive input from several glomeruli
+Recent advances in understanding the role of phasic dopamine activity
+
+Wolfram Schultz
+
+Dopamine neurons can be activated by not explicitly paired stimuli. For example, two stimuli (A and B) are presented sequentially. Then the reward occurs only with B. However, some dopamine neurons will be activated even if only A is given
+Dopamine response may reflect the temporal structure of reward prediction
+Dopamine response can model multiple reward distributions if multiple rewards are given with enough differences
+the initial dopamine response component seems to code surprise salience rather than a full, bidirectional prediction error
+For aversive coding, physical impact (e.g., pain, disgust) may be coded separated with the valence coding
+Differential conditioning produces merged long-term memory in Drosophila
+
+Bohan Zhao, ..., and Yi Zhong
+
+single-trial training produces aversive LTMs to both CS+ and CS-
+those LTMs of CS+ and CS- require new protein synthesis to consolidate
+the consolidation takes at least hours
+the long-term avoidances of CS+ and CS- seem to be derived from the same mLTM
+LTM^CS+ and LTM^CS- were both extinguished by the re-exposure to either CS+ or CS- alone
+LTM^CS+ and LTM^CS- were both abolished when the temporal interval between CS+ and CS- during training was prolonged to 20 minutes, suggesting that the formation of LTM^CS+ and LTM^CS- depends on the contingency of two shock-paired CS+ and CS- exposures, instead of temporally separated exposures
+the encoding of mLTM requires aversive-reinforcing DANs
+retrieval of mLTM requires output of ab KCs
+long-lasting depression of responses in alpha2sc MBONs underlies mLTM expression
+Extinction of Instrumental (Operant) Learning: Interference, Context, and Contextual Control
+
+Mark E. Bouton
+
+In this paper, the figure below shows all possible mechanisms by which a context might control a free operant response. (For classical conditioning, I think we just need to replace R-O with S-O.
+image
+
+An update on contextual fear memory mechanisms: transition between amygdala and hippocampus
+
+Nicholas Chaaya, ..., and Luke R. Johnson
+
+There are three possible renewal paradigms from mouse literature (ABA, ABC, and AAB), ABA is the strongest, while ABC and AAB paradigms sometimes are hard to reproduce
+There are three features about renewal effects:
+
+Has been seen in almost every conditioning preparation
+Can occur after very extensive extinction training
+the role of context is different from the standard models (context is merely another CS). The implication is that contexts modulate or "set the occasion" for the current CS-US or CS-no-US association.
+Reduction of contextual control of conditioned responses by extended Pavlovian training in an insect
+
+Misato Sato, ..., and Makoto Mizunami
+
+the authors showed in crickets' Pavlovian conditioning, a conditioned response (CR) is initially sensitive to devaluation of the US but becomes insensitive to it after extended training
+the CR is less context-dependent after extended training, in contrast to what occurs after standard training, where context specificity is observed
+US value-insensitive CR after extended training is indeed less context-specific
+the number of conditioning trials does not reduce the context specificity of the CR
+Mushroom body efferent neurons responsible for aversive olfactory memory retrieval in Drosophila
+
+Julien Sejourne, ..., Thomas Preat
+
+MB-V2 neurons are essential for retrieval of both short- and long-lasting aversive memories, but not for memory formation or memory consolidation
+MB-V2 neurons are cholinergic efferent neurons that project from the mushroom body vertical lobes to the middle superiormedial protocerebrum and the lateral horn
+the odor response of MB-V2 neurons is modified after conditioning
+As the lateral horn has been implicated in innate responses to repellent odorants, the authors propose that MB-V2 neurons recruit the olfactory pathway involved in innate odor avoidance during memory retrieval
+The temporal dynamics of retention of a context memory: Something is missing
+
+Jerry Rudy and Karli Wirght-Hardesty
+
+The authors used a context pre-exposure facilitation effect (CPFE) to study the retention of a context memory. CPFE consists of three phases: 1. pre-exposure to the context; 2. immediate shock; 3. test for conditioned freezing. The retention interval separates pre-exposure and immediate shock.
+
+Retention of the context memory is a U-shape function of the retention interval, with 5 min retrieval at the lowest
+Memory for context rapidly becomes inaccessible (~ 2 min)
+Two pre-exposure sessions make the context memory retrievable at 5 min
+The flat part of the U is unlikely a product of the nature of the retrieval experience
+The context memory can last more than 28 days
+Independent Contributions of Discrete Dopaminergic Circuits to Cellular Plasticity, Memory Strength, and Valence in Drosophila
+
+Tamara Boto, ... and Seth M. Tomchik
+
+Dopaminergic plasticity at the cellular level maps to PPL2, not PPL1 neurons
+the PPL2 subset of TH+ dopaminergic neurons is responsible for the cellular-level Ca2+ response plasticity observed in the MB g lobes
+PPL2 neurons respond to odor and shock but do not encode strong valence (artificial training does not produce any memory, the timing of testing is not given, maybe it's immediate test?)
+Activating PPL2 neurons during paired shock-CS+ presentation facilitates memory, while activating those neurons after the presentation has no effect. - The electrophysiological evidence shows that PPL2 stimulation enhances MB responses to a paired odor, and there was no detectable interaction with electric shock
+No loss-of-function effect was found with PPL2 neurons
+Dopamine Neurons Mediate Learning and Forgetting through Bidirectional Modulation of a Memory Trace
+
+Jacob A. Berry, ... and Ronald L. Davis
+
+The output of MBON-r2a'1 is required for aversive memory retrieval
+Activation of DAN-r2a'1 depresses synaptic connection to MBON-r2a'1 when there's coincidence with CS, while restoring the connection when there's no coincidence
+The authors only tested active (artificial) short-term forgetting, but no spontaneous long-term forgetting
+Forgetting, Reminding, and Remembering: The Retrieval of Lost Spatial Memory
+
+Livia de Hoz, ... and Richard Morris 2004
+
+Giving partially lesioned rats a reminder (the stage) leads to reactivation of a dormant place memory
+Since the reminder stage is given at two different places (new and original location), it gives a protocol to differentiate "storage failure" and "retrieval failure"
+Differential role for a defined lateral horn neuron subset in naive odor valence in Drosophila
+
+Hadas Lerner, ... and Moshe Parnas 2020
+
+(Fig 3) suggests that PD2a1/b1 neurons mediate avoidance behavior to odors in satiated flies at the relatively high odor concentration of 10^-2 used;
+the contribution of PD2a1/b1 neurons to odor avoidance behavior is concentration-dependent and time-dependent (in a timescale of seconds)
+By the loss of function experiment in olfactory conditioning, PD2a1/b1 neurons are shown to contribute to aversive conditioning, most likely by changing the innate odor valence than direct participation in the conditioning
+LH neurons, KCs, and fan-shaped body neurons are possible downstream integrators of PD2a1/b1 neurons and that MB-processed information is returned to the LH via MBON-b'2mp
+A plausible motif to explain the results in Fig. S7
+Dissecting neural pathways for forgetting inDrosophilaolfactory aversive memory
+
+Yichun Shuai, ... and Yi Zhong 2015
+
+Identified two sets of neurons (PAM-b'1 and MBON-r4>r1r2) that account for the rapid forgetting of early olfactory aversive memory
+Inactivating those neurons inhibits memory decay without altering learning, whereas activating them promotes forgetting
+Those two sets of neurons are not required for acute forgetting during reversal learning
+Long-term memory is formed immediately without the need for protein synthesis-dependent consolidation in Drosophila
+
+Bohan Zhao, ... and Yi Zhong 2019
+
+Single-trial conditioning yields cLTM that is formed immediately and sustained over 14 days
+cLTM recall requires both the conditioned odor and every component of the context
+This cLTM is mediated through lateral-horn neurons
